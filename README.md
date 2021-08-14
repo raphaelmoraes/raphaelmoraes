@@ -1,4 +1,4 @@
-### Olá! Sou o Raphael Moraes
+##
 
 - 🔭 Atualmente estou trabalhando em projetos mobile
 - 🌱 Aprendendo flutter
@@ -23,7 +23,7 @@
   <img align="right"  width="150" src="https://github.com/raphaelmoraes/raphaelmoraes/blob/main/rickmorty.gif">
 </div>
   
-  #
+  ##
   
   
   <div>
@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/raphael-moraes-7827936a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
   
- #
+ ##
   
   
