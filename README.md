@@ -1,7 +1,7 @@
 ### Olá!
 
 - 🔭 Atualmente estou trabalhando em projetos mobile
-- 🌱 Aprendendo flutter
+- 🌱 Programando flutter
 
 <div>
   <a href="https://github.com/raphaelmoraes">
@@ -20,7 +20,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">  
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="right"  width="180" src="https://github.com/raphaelmoraes/raphaelmoraes/blob/main/rickmorty.gif">
+  <img align="right"  width="200" src="https://github.com/raphaelmoraes/raphaelmoraes/blob/main/rickmorty.gif">
 </div>
   
   ##
