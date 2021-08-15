@@ -1,12 +1,9 @@
-### Olá!
-
-- 🔭 Atualmente estou trabalhando em projetos mobile
-- 🌱 Programando flutter
+### 
 
 <div>
   <a href="https://github.com/raphaelmoraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelmoraes&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmoraes&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelmoraes&layout=compact&langs_count=10"/>
 </div>
 
   
