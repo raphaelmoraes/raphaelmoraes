@@ -8,15 +8,15 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" title="Dart" alt="Dart" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" height="30" width="40" alt="Flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" height="30" width="40" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" height="30" width="40" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" alt="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-  <img align="center" height="30" width="40" alt="VueJS" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" height="30" width="40" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">  
-  <img align="center" height="30" width="40" alt="Oracle" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" height="30" width="40" alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg">
+  <img align="center" height="30" width="40" title="Dart" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img align="center" height="30" width="40" title="Flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" height="30" width="40" title="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" height="30" width="40" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" title="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  <img align="center" height="30" width="40" title="VueJS" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" height="30" width="40" title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">  
+  <img align="center" height="30" width="40" title="Oracle" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" height="30" width="40" title="Firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   
   <img align="right"  width="200" src="https://github.com/raphaelmoraes/raphaelmoraes/blob/main/rickmorty.gif">
 </div>
