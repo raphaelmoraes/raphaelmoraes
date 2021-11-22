@@ -8,7 +8,7 @@
 
   
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" alt="Dart" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img align="center" height="30" width="40" title="Dart" alt="Dart" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" height="30" width="40" alt="Flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" height="30" width="40" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" height="30" width="40" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
