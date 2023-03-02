@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40" title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">  
   <img align="center" height="30" width="40" title="Oracle" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" height="30" width="40" title="Firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-  <img align="center" height="30" width="40" title="Javascript" src="[https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)">
+  <img align="center" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   
   
   <img align="right"  width="200" src="https://github.com/raphaelmoraes/raphaelmoraes/blob/main/rickmorty.gif">
